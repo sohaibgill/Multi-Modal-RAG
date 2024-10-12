@@ -1,0 +1,6 @@
+pdfplumber
+langchain
+pinecone-client
+pinecone-plugin-assistant
+tiktoken
+voyageai
